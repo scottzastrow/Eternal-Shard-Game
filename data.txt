@@ -1,0 +1,8 @@
+name=player
+health=10
+level=0
+currency=10
+weapon=false
+shards=0
+quest=Kyrthael Forest
+gamestate=0
